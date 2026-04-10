@@ -1,258 +1,283 @@
 # Alpine OR -- AI Transformation Plan
-## From Project Management Firm to Intelligence-Powered Construction Platform
+## 2x → 10x → 100x: A Progressive Intelligence Roadmap
 
-**Prepared by:** Light Brands (QIE)
+**Prepared by:** Light Brands
 **Client:** Alpine Group / Alpine OR
 **Date:** April 10, 2026
-**Version:** 1.0
+**Version:** 2.0
 
 ---
 
-## Executive Summary
+## The Approach
 
-Alpine OR manages luxury custom residential builds as owner's representatives. A small team of PMs coordinates architects, contractors, designers, permitting authorities, and owners across 100+ completed projects. Every hour spent on coordination, document chasing, and status reporting is an hour not spent on the high-judgment work that justifies premium fees.
+We do not walk in and promise the moon. We prove value fast, earn trust, then go deeper.
 
-This plan identifies 12 high-impact AI transformation opportunities across 4 tiers. The goal: **100x productivity** by turning Alpine's tribal knowledge into a system that scales without headcount.
+**Phase 1 -- 2x:** Double your team's output with AI tools layered onto your current workflow. No process changes required. You keep doing what you do, but faster. The goal is immediate relief on the work that burns your hours.
 
----
+**Phase 2 -- 10x:** Rebuild your core operations as AI-native systems. This is where tribal knowledge becomes institutional knowledge, where reactive management becomes predictive, and where your 100+ project history starts working for you. The team handles 10x the volume at higher quality.
 
-## Tier 1: Immediate Wins (Weeks 1-4)
-### Deploy in days. ROI in the first week.
+**Phase 3 -- 100x:** Once you are AI-native, the constraint is no longer your team. It is your business model. We explore the platform plays that turn Alpine from a services firm into an intelligence company. New revenue streams. New markets. Exponential scaling.
 
-### 1. Intelligent Project Status & Reporting Engine
-**The Problem:** PMs spend hours compiling weekly/monthly status reports for clients. They aggregate updates from contractors, check schedules, review budgets, and write narratives.
-
-**The AI Play:**
-- Automated status report generation from structured inputs (schedule data, budget tracking, photos)
-- Natural language summaries that translate construction jargon into client-friendly updates
-- Photo-to-progress analysis: upload jobsite photos, AI identifies completion percentage by trade
-- Branded PDF/email reports generated in minutes, not hours
-
-**Productivity Multiplier:** 10-20x on reporting time
-**Estimated Time Saved:** 5-10 hours/week per PM
+Each phase is earned. We do not jump to 10x until 2x is proven. We do not talk 100x until 10x is running.
 
 ---
 
-### 2. Contract & Document Intelligence
-**The Problem:** Alpine reviews contracts, change orders, RFIs, submittals, and insurance docs across every project. Each document requires careful reading and cross-referencing against project specs.
+## Phase 1: 2x Production (Weeks 1-6)
+### Double output. Zero process disruption.
 
-**The AI Play:**
-- Contract analysis engine: upload any contract, get instant risk summary, key dates, obligations, missing clauses
-- Change order review: AI compares against original scope, flags cost/schedule impacts, suggests negotiation points
-- Insurance certificate validator: auto-check coverage requirements against project specs
-- RFI/submittal tracking with intelligent routing and deadline alerts
-- Document template library with AI-assisted drafting
-
-**Productivity Multiplier:** 15-25x on document review
-**Estimated Time Saved:** 8-15 hours/week per PM
+The principle here is simple: take the tasks that eat your PMs' weeks and cut them in half. Same workflows, same tools, same client relationships. Just faster.
 
 ---
 
-### 3. Client Communication Copilot
-**The Problem:** Owners ask questions constantly. "Is my project on schedule?" "Why did the electrician need an extra $12k?" "What's happening next week?" PMs answer these individually, often re-explaining the same concepts.
+### 1. Reporting Accelerator
 
-**The AI Play:**
-- Client-facing AI assistant (branded as Alpine's concierge) that answers routine questions from project data
-- Proactive notifications: "Your kitchen cabinets ship Monday, the install crew is confirmed for Thursday"
-- Budget explainers: AI translates line-item changes into plain English with context
-- Decision support: when clients face choices (tile A vs. tile B, timeline tradeoffs), AI presents options with cost/schedule implications
-- All communications logged, searchable, and accessible
+**What burns the hours:** PMs spend 5-10 hours per week compiling status reports. Pulling schedule updates from contractors, cross-referencing budgets, writing narratives, formatting for clients.
 
-**Productivity Multiplier:** 10x on client communication overhead
-**Estimated Time Saved:** 5-8 hours/week per PM
+**What changes:**
+- AI drafts weekly status reports from structured inputs (schedule data, budget tracker, jobsite photos)
+- Natural language translation: construction jargon becomes client-friendly updates automatically
+- Photo analysis: upload jobsite photos, AI identifies progress by trade and flags issues
+- Branded PDF/email output in minutes instead of hours
+- PM reviews and edits the draft rather than writing from scratch
 
----
-
-## Tier 2: Core Platform Build (Months 1-3)
-### The backbone. This is where Alpine becomes a technology company.
-
-### 4. AI-Native Project Management Dashboard
-**The Problem:** Project data lives in spreadsheets, emails, texts, and heads. No single source of truth. When a PM is sick or unavailable, projects stall.
-
-**The AI Play:**
-- Centralized project dashboard: every project, every phase, every dollar, every decision -- one screen
-- AI-powered schedule forecasting: based on historical project data, predict delays before they happen
-- Budget tracking with anomaly detection: "This framing bid is 40% above your last 5 projects, flag it"
-- Automated milestone tracking: tie permits, inspections, deliveries to the master schedule
-- PM knowledge capture: every decision, rationale, and lesson learned is logged and searchable
-- Cross-project intelligence: patterns from 100+ completed projects inform every new one
-
-**Productivity Multiplier:** 20x on project coordination
-**Why It Matters:** This is the moat. No competitor has 100+ luxury project datasets powering AI predictions.
+**Time recovered:** 3-7 hours/week per PM
+**What the PM does instead:** More site visits. More client face time. More proactive problem-solving.
 
 ---
 
-### 5. Vendor & Contractor Intelligence Network
-**The Problem:** Knowing which contractors are reliable, available, and fairly priced is tribal knowledge locked in PMs' heads. When a PM leaves, that knowledge walks out the door.
+### 2. Document Review Copilot
 
-**The AI Play:**
-- Contractor database with AI-scored reliability ratings (based on Alpine's historical data)
-- Bid comparison engine: upload 3 bids, AI normalizes line items, flags outliers, recommends
-- Availability tracker: real-time contractor capacity and scheduling
-- Performance scoring: track on-time delivery, change order frequency, quality issues per contractor
-- Automated reference checks and insurance verification
-- "Find me a tile installer available in March who's done $500k+ bathrooms" -- answered instantly
+**What burns the hours:** Every project generates a mountain of contracts, change orders, RFIs, submittals, and insurance certificates. Each one needs careful review and cross-referencing.
 
-**Productivity Multiplier:** 10-15x on vendor management
-**Why It Matters:** This database becomes Alpine's most valuable asset over time.
+**What changes:**
+- Upload any contract, get an instant summary: key dates, obligations, risks, missing clauses
+- Change order analysis: AI compares against original scope, flags cost and schedule impact
+- Insurance certificate validation: auto-check coverage requirements against project specs
+- RFI/submittal tracking with intelligent deadline alerts
+- AI-assisted drafting from your existing templates
+
+**Time recovered:** 5-10 hours/week per PM
+**What the PM does instead:** Focus on negotiation strategy instead of document processing.
 
 ---
 
-### 6. Permitting & Compliance Autopilot
-**The Problem:** Permit applications are paperwork nightmares. Each jurisdiction has different requirements, forms, timelines. Compliance tracking (inspections, code requirements, HOA rules) is manual and error-prone.
+### 3. Client Communication Support
 
-**The AI Play:**
-- Jurisdiction-specific permit requirement lookup: input address, get full permit checklist
+**What burns the hours:** Owners ask the same categories of questions constantly. "Are we on schedule?" "Why did costs go up?" "What's happening next week?" Each answer requires pulling context from multiple sources.
+
+**What changes:**
+- AI drafts responses to routine client questions using live project data
+- Budget explainers: line-item changes translated into plain English with context
+- Proactive update drafts: "Here's what's happening this week" emails pre-written from schedule data
+- Decision briefs: when clients face choices, AI prepares a comparison with cost/schedule implications
+- PM reviews and personalizes before sending
+
+**Time recovered:** 3-5 hours/week per PM
+**What the PM does instead:** Higher-value client conversations. Relationship building. Strategic guidance.
+
+---
+
+### Phase 1 Summary
+
+| Tool | Hours Recovered/Week | PM Role |
+|------|---------------------|---------|
+| Reporting Accelerator | 3-7 hrs | Review and approve AI drafts |
+| Document Review Copilot | 5-10 hrs | Focus on strategy, not reading |
+| Client Communication Support | 3-5 hrs | Personalize, don't compose |
+| **Total** | **11-22 hrs/week per PM** | |
+
+**That is a 2x.** A PM who was spending 38 hours on coordination and 10 on judgment work now spends 16-27 on coordination and 21-32 on judgment work. Same team, double the capacity for the work that actually matters.
+
+**How we know it worked:** Track hours per task category before and after. If PMs are not spending recovered hours on higher-value work, we adjust before moving to Phase 2.
+
+---
+
+## Phase 2: 10x Production (Months 2-6)
+### AI-native operations. This is the rebuild.
+
+Phase 1 made existing workflows faster. Phase 2 replaces them. The goal is to move Alpine from a team that uses AI tools to a team that runs on AI systems. Every project, every vendor relationship, every decision gets structured into a system that compounds.
+
+---
+
+### 4. Centralized Project Intelligence Dashboard
+
+**The shift:** Project data currently lives in spreadsheets, emails, texts, and heads. When a PM is out, projects slow down. When a new PM picks up a project, there is a learning curve.
+
+**What gets built:**
+- Single dashboard: every project, every phase, every dollar, every decision visible in one place
+- AI-powered schedule forecasting using historical data from 100+ completed projects
+- Budget anomaly detection: "This framing bid is 40% above your last 5 comparable projects"
+- Automated milestone tracking tied to permits, inspections, and deliveries
+- Knowledge capture: every decision and its rationale logged and searchable
+- Cross-project pattern recognition: what worked on past projects informs current ones
+
+**The 10x lever:** No PM is starting from zero on any project. The system remembers everything Alpine has ever learned.
+
+---
+
+### 5. Vendor and Contractor Intelligence
+
+**The shift:** Knowing which contractors are reliable, available, and fairly priced is currently tribal knowledge. It lives in PMs' heads and personal networks. When someone leaves, that knowledge walks out.
+
+**What gets built:**
+- Contractor database with AI-scored reliability ratings built from Alpine's historical performance data
+- Bid comparison engine: upload multiple bids, AI normalizes line items, flags outliers, recommends
+- Performance tracking: on-time delivery rates, change order frequency, quality issue history per contractor
+- Availability and capacity tracking
+- Instant matching: "Find a tile installer available in March who has done $500k+ bathrooms"
+
+**The 10x lever:** This database is Alpine's most defensible asset. No competitor can replicate 100+ projects of contractor performance data. It gets more valuable with every project.
+
+---
+
+### 6. Permitting and Compliance System
+
+**The shift:** Permit applications vary by jurisdiction. Compliance tracking (inspections, codes, HOA rules) is manual and error-prone. Missed deadlines cost real money.
+
+**What gets built:**
+- Jurisdiction-specific permit requirement lookup: input an address, get a full checklist
 - AI-assisted permit application drafting from project plans
-- Inspection scheduling and tracking with automated reminders
-- Code compliance checker: review plans against local building codes before submission
+- Inspection scheduling with automated reminders and contractor coordination
+- Code compliance pre-check: review plans against local building codes before submission
 - HOA/CC&R compliance review for design submissions
-- Timeline prediction: based on historical data, estimate permit processing times by jurisdiction
+- Processing time predictions based on historical data by jurisdiction
 
-**Productivity Multiplier:** 5-10x on permitting workflow
-**Estimated Time Saved:** 3-6 hours/week per PM
+**The 10x lever:** Permitting goes from a bottleneck to a background process. AI handles the paperwork, PMs handle the relationships with officials.
 
 ---
 
-## Tier 3: Competitive Moat (Months 3-6)
-### This is where Alpine becomes unreplicable.
+### 7. Predictive Budget and Schedule Intelligence
 
-### 7. Predictive Budget & Schedule Intelligence
-**The Problem:** Cost overruns and schedule delays are the #1 source of client frustration in luxury construction. Current approach is reactive -- problems are discovered after they happen.
+**The shift:** Cost overruns and schedule delays are reactive today. Problems are discovered after they happen. The goal is to see problems before they arrive.
 
-**The AI Play:**
-- Historical cost database: 100+ projects create a pricing intelligence layer no competitor can match
-- "What should a 5,000 sqft luxury kitchen renovation cost in Park City?" -- answered with confidence intervals
+**What gets built:**
+- Historical cost database powered by 100+ projects creates a pricing intelligence layer
+- "What should a 5,000 sqft luxury kitchen renovation cost in this market?" -- answered with confidence intervals
 - Early warning system: AI monitors project velocity and spend rate, alerts when trajectories diverge from plan
-- Weather/supply chain integration: factor external variables into schedule predictions
-- Monte Carlo simulation for budget and timeline outcomes: "There's a 75% chance you finish by December, 90% chance by February"
-- Change order impact modeling: "If you upgrade to marble, here's the cascade effect on budget and timeline"
+- Weather and supply chain integration factored into schedule predictions
+- Change order impact modeling: "If you upgrade to marble, here is the cascade on budget and timeline"
 
-**Productivity Multiplier:** The value here is not time saved but outcomes improved
-**Why It Matters:** This turns Alpine from "we manage your project" into "we predict your project's future"
+**The 10x lever:** Alpine stops managing projects and starts predicting them. Clients pay for foresight, not just oversight.
 
 ---
 
-### 8. Design Decision Support Engine
-**The Problem:** Owners face hundreds of decisions during a custom build. Tile, fixtures, lighting, layout, finishes, landscaping. Decision fatigue is real and delays projects.
+### Phase 2 Summary
 
-**The AI Play:**
-- Visual design assistant: "Show me kitchens similar to what we're building but with different countertop options"
-- Cost/value analysis for finish selections: "Quartzite costs 40% more than quartz but adds 2x resale value in this market"
-- Decision timeline optimizer: surface decisions in the right order based on construction sequence
-- Mood board generator from client preferences and project style
-- Vendor/product recommendation engine tied to contractor relationships and availability
-- Decision tracking: every selection logged with rationale, alternatives considered, and approval
+| System | What It Replaces | The Compound Effect |
+|--------|-----------------|-------------------|
+| Project Dashboard | Scattered spreadsheets and emails | Institutional memory that never forgets |
+| Vendor Intelligence | Tribal knowledge in PMs' heads | Defensible data asset that grows with every project |
+| Permitting System | Manual paperwork and tracking | Background automation for bureaucratic processes |
+| Predictive Intelligence | Reactive problem discovery | Foresight that prevents problems before they start |
 
-**Productivity Multiplier:** 5x on design coordination time
-**Why It Matters:** Speeds up the slowest part of luxury builds -- client decision-making
+**That is a 10x.** Each PM can now manage 4-5x the projects because the system handles coordination, the data handles decisions, and the predictions handle risk. The PM's job shifts from project administrator to strategic advisor.
 
----
-
-### 9. Quality Assurance & Inspection Intelligence
-**The Problem:** Quality issues caught late are expensive. A PM physically inspecting every detail of a luxury build is impossible at scale.
-
-**The AI Play:**
-- Photo/video-based quality inspection: upload jobsite photos, AI checks against specs and standards
-- Punch list automation: walk the site with a phone, dictate issues, AI categorizes and assigns
-- Historical defect patterns: "Contractor X tends to have issues with waterproofing -- flag for extra inspection"
-- Warranty tracking: every product, every install, every warranty term -- searchable and alerting
-- Client walkthrough prep: AI generates a guided inspection checklist based on project specifics
-
-**Productivity Multiplier:** 10x on quality management
-**Why It Matters:** Quality is reputation. Reputation is the entire business.
+**How we know it worked:** PM project load capacity. Client satisfaction scores. Budget and schedule accuracy rates. If PMs can not take on more projects at equal or better quality, we tune before moving to Phase 3.
 
 ---
 
-## Tier 4: Platform Play (Months 6-12)
-### From service firm to technology platform.
+## Phase 3: The 100x Conversation (Months 6-12+)
+### From service firm to intelligence platform.
 
-### 10. "Alpine Intelligence" -- White-Label Platform for Other Owner's Reps
-**The Problem:** Alpine has built something no one else has -- a data-rich, AI-powered project management system refined on 100+ luxury builds. Other small OR firms are still running on spreadsheets.
-
-**The AI Play:**
-- Package Alpine's AI tools as a SaaS platform for other owner's representatives
-- Tiered offering: Basic (reporting + docs), Pro (full dashboard + predictions), Enterprise (custom)
-- Network effects: every firm on the platform contributes anonymized data that makes predictions better for everyone
-- Marketplace: connect owner's reps with vetted contractors across regions
-
-**Revenue Model:** SaaS subscription + transaction fees on contractor marketplace
-**Why It Matters:** This transforms Alpine from a services company (linear scaling) into a platform company (exponential scaling)
+This phase is not a plan. It is a conversation we earn the right to have after Phases 1 and 2 prove out. The ideas below are directions, not commitments. We explore them together once Alpine is running AI-native.
 
 ---
 
-### 11. Client Portal & "Digital Twin" Experience
-**The Problem:** Luxury homeowners want visibility and control. Currently they get weekly emails and phone calls.
+### 8. Client-Facing Project Portal
 
-**The AI Play:**
-- Real-time project portal: owners see exactly what's happening, when, and why
-- 3D "digital twin" of the home that updates as construction progresses
-- AI concierge (from Tier 1) embedded in the portal with full project context
-- Document vault: every contract, permit, plan, photo -- organized and searchable
-- Financial dashboard: budget vs. actual, projected final cost, payment schedule
-- Post-completion: the portal becomes the home's permanent operations manual (warranties, maintenance schedules, system documentation)
+An owner-facing portal where clients see real-time project status, budgets, decisions, photos, and documents. The AI concierge from Phase 1 lives here, answering questions 24/7. After construction, the portal becomes the home's permanent operations manual.
 
-**Why It Matters:** This is the luxury experience that justifies premium fees
+**Why it could be 100x:** Premium clients pay premium fees for premium visibility. This justifies higher rates while reducing PM communication overhead to near zero.
 
 ---
 
-### 12. Estate Management AI (Post-Construction Recurring Revenue)
-**The Problem:** Alpine already offers estate management turnover. But after handoff, the relationship ends. Recurring revenue = zero.
+### 9. Design Decision Support
 
-**The AI Play:**
-- AI-powered home management system: maintenance schedules, vendor coordination, seasonal prep
-- "Your HVAC filter is due for replacement. Your preferred vendor has availability Thursday. Confirm?"
-- Warranty expiration tracking and proactive renewal
-- Home value monitoring tied to market data and improvements
-- Emergency response routing: pipe burst at 2am? AI contacts the right plumber from Alpine's network
-- Annual home health report: condition assessment, recommended maintenance, value impact
+Owners face hundreds of decisions during a custom build. An AI system that sequences decisions correctly, presents cost/value tradeoffs, and tracks selections with rationale. Reduces the single biggest source of luxury build delays: client decision fatigue.
 
-**Revenue Model:** Monthly subscription per home, indefinitely
-**Why It Matters:** Turns every completed project into a recurring revenue stream
+**Why it could be 100x:** Faster decisions mean shorter timelines mean more projects per year.
 
 ---
 
-## Implementation Roadmap
+### 10. Quality and Inspection Intelligence
 
-| Phase | Timeline | Deliverables | Investment |
-|-------|----------|-------------|------------|
-| **Phase 1: Quick Wins** | Weeks 1-4 | Status reporting engine, contract analyzer, client copilot | Low |
-| **Phase 2: Core Platform** | Months 1-3 | PM dashboard, vendor intelligence, permitting autopilot | Medium |
-| **Phase 3: Moat Building** | Months 3-6 | Predictive intelligence, design support, QA system | Medium-High |
-| **Phase 4: Platform Play** | Months 6-12 | White-label SaaS, client portal, estate management | High |
+Photo and video-based quality inspection. Walk a site with a phone, AI checks work against specs. Automated punch lists. Historical defect pattern recognition by contractor. Warranty tracking for every product and installation.
+
+**Why it could be 100x:** Quality at scale without adding headcount. Every project gets the same rigor regardless of team size.
 
 ---
 
-## The 100x Math
+### 11. "Alpine Intelligence" -- Platform for Other OR Firms
 
-**Current State (per PM):**
-- ~15 hours/week on reporting, docs, and status updates
-- ~10 hours/week on vendor coordination and bid review
-- ~8 hours/week on client communication
-- ~5 hours/week on permitting and compliance
-- ~38 hours/week on coordination = leaves ~10 hours for actual judgment work
+Package everything built in Phases 1-2 as a SaaS product for other owner's representatives. Tiered subscription model. Network effects: every firm on the platform contributes anonymized data that makes predictions better for everyone. Contractor marketplace connecting vetted subs across regions.
 
-**After AI Transformation:**
-- Reporting: 1 hour (review AI drafts) instead of 15
-- Vendor coordination: 2 hours instead of 10
-- Client comms: 1 hour instead of 8
-- Permitting: 1 hour instead of 5
-- ~5 hours/week on coordination = leaves ~43 hours for judgment work
-
-**That is not 100x the speed. That is 100x the capacity.** Each PM can manage 4-5x the projects. Add predictive intelligence and the quality of each project improves. Add the platform play and the business scales without adding PMs.
-
-One PM with AI tools can deliver what a team of 5 delivers today. A team of 5 with AI tools can run an empire.
+**Why it could be 100x:** Services revenue scales linearly with headcount. Platform revenue scales with adoption. This is where Alpine stops being a project management firm and becomes a construction intelligence company.
 
 ---
 
-## Next Steps
+### 12. Estate Management -- Recurring Revenue
 
-1. **Discovery session** with Alpine leadership to validate priorities and appetite
-2. **Data audit** -- what project data exists today? Spreadsheets, emails, project management tools?
-3. **Phase 1 sprint** -- build the first 3 tools against a live project
-4. **Measure and iterate** -- track time saved, client satisfaction, and PM capacity
+AI-powered post-construction home management. Maintenance schedules, vendor coordination, warranty tracking, emergency response routing, annual home health reports. Every completed project becomes a monthly subscription.
+
+**Why it could be 100x:** Turns a one-time engagement into a lifetime revenue stream. The marginal cost of managing an additional home is near zero once the system exists.
 
 ---
 
-*Prepared by Light Brands via QIE (Quantum Intelligence Engine)*
-*107 AI agents. 204+ workflows. One mission: make intelligence compound.*
+## The Progression
+
+```
+PHASE 1: 2x                    PHASE 2: 10x                   PHASE 3: 100x
+---------------------------     ---------------------------     ---------------------------
+AI assists your workflow        AI runs your operations         AI IS the business model
+
+Report drafting                 Project intelligence            Client portal product
+Document review                 Vendor scoring                  Design decision engine
+Communication support           Permitting autopilot            Quality at scale
+                                Predictive budgets              SaaS platform for OR firms
+                                                                Estate management MRR
+
+Same team, faster               Same team, 5x capacity          New revenue, new markets
+Weeks 1-6                       Months 2-6                      Months 6-12+
+Prove value                     Build the moat                  Scale the model
+```
+
+---
+
+## How We Work Together
+
+**Discovery (Week 0):**
+- Walk us through 2-3 active projects end to end
+- Show us where time goes: what tools, what spreadsheets, what emails
+- Identify the first project to pilot Phase 1 tools against
+
+**Phase 1 Sprint (Weeks 1-6):**
+- Deploy reporting, document, and communication tools on 1-2 live projects
+- Measure time saved weekly
+- Iterate based on PM feedback
+- Gate: PMs report measurable time recovery before we proceed
+
+**Phase 2 Build (Months 2-6):**
+- Design and build the core intelligence systems
+- Migrate historical project data into structured format
+- Train the vendor intelligence model on Alpine's contractor history
+- Gate: PM project capacity increases before we discuss Phase 3
+
+**Phase 3 Exploration (Months 6-12+):**
+- Joint strategy sessions on which 100x plays fit Alpine's vision
+- Build and test one platform play at a time
+- Each new product is a separate business decision, not a foregone conclusion
+
+---
+
+## Why Light Brands
+
+We are not a dev shop. We are an intelligence organization with 107 AI agents and 204+ workflows purpose-built for turning service businesses into intelligence platforms. We have done this across capital formation, growth marketing, investor communications, and software development.
+
+Alpine OR has something rare: 100+ projects of real-world data, a reputation built on trust, and a team small enough to move fast. We bring the AI infrastructure. You bring the domain expertise. Together, we build something no competitor can replicate.
+
+The first step is small. Double your production. Prove it works. Then we go bigger.
+
+---
+
+*Prepared by Light Brands*
+*Let's start with 2x and see where it takes us.*
